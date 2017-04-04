@@ -7,3 +7,6 @@ I am running Visual Studio 2015 with the [preview tooling](https://blogs.msdn.mi
 
 # Deployment
 This repo can be configured with [continuous deployment](https://github.com/Azure/azure-content-nlnl/blob/master/articles/azure-functions/functions-continuous-deployment.md) to your Azure Functions instance.
+
+# Example Output
+![Example Output](sample-output.PNG)
